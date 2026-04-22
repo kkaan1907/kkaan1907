@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kenan Kaan Apucu</h1>
-<h3 align="center">A Computer Engineering student from Turkey</h3>
+<h3 align="center">A Computer Engineer from Turkey</h3>
 
 - 🌱 I’m currently learning **Python-Numpy and Pandas,Gazebo**
 
